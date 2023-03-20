@@ -1,0 +1,54 @@
+/run/initialize
+
+/gps/particle e-
+/gps/pos/type Plane
+/gps/pos/shape Circle
+/gps/pos/radius 4.75
+/gps/ang/type iso
+
+/gps/ene/type Arb
+/gps/hist/type arb
+
+/gps/hist/point 0.5 0.1654
+/gps/hist/point 1.0 0.1543
+/gps/hist/point 1.25 0.1252
+/gps/hist/point 1.5 0.1058
+/gps/hist/point 1.75 0.0873
+/gps/hist/point 2.0 0.0711
+/gps/hist/point 2.25 0.0582
+/gps/hist/point 2.5 0.0474
+/gps/hist/point 2.75 0.0393
+/gps/hist/point 3.0 0.0322
+/gps/hist/point 3.25 0.0256
+/gps/hist/point 3.5 0.0204
+/gps/hist/point 3.75 0.0159
+/gps/hist/point 4.0 0.0124
+/gps/hist/point 4.25 0.0095
+/gps/hist/point 4.5 0.0074
+/gps/hist/point 4.75 0.0057
+/gps/hist/point 5.0 0.0044
+/gps/hist/point 5.25 0.0034
+/gps/hist/point 5.5 0.0025
+/gps/hist/point 5.75 0.0019
+/gps/hist/point 6.0 0.0014
+/gps/hist/point 6.25 0.0010
+/gps/hist/point 6.5 0.0007
+/gps/hist/point 6.75 0.0005
+/gps/hist/point 7.0 0.0003
+/gps/hist/point 7.25 0.0002
+/gps/hist/point 7.5 0.0001
+/gps/hist/point 7.75 0.0000
+/gps/hist/point 8.0 0.0000
+/gps/hist/point 8.25 0.0000
+/gps/hist/point 8.5 0.0000
+/gps/hist/point 9.0 0.0000
+
+
+/gps/hist/inter Lin
+
+/gps/verbose 1
+  
+/run/beamOn 100000
+
+
+

@@ -1,0 +1,17 @@
+
+
+/run/initialize
+
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Circle
+/gps/pos/radius 4.75
+/gps/ang/type iso
+
+/gps/ene/type Mono
+/gps/energy 4. MeV
+ 
+
+
+/gps/verbose 1
+/run/beamOn 100000
